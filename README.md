@@ -14,9 +14,16 @@ In order to evaluate the impact of earning report on stock price, I did the foll
 • The AAR and CAAR for 3 groups are presented in a matrix. The row of the matrix is the group#, matrix columns are for AAR and CAAR.
 
 • Use gnuplot to show the CAAR from all 3 groups in one graph.
+
+
 The program have a menu of 5 options:
+
 o Retrieve historical price data for all stocks.
+
 o Pull information for one stock from one group.
+
 o Show AAR or CAAR for one group.
+
 o Show the Excel graph with CAAR for all 3 groups.
+
 o Exit the program.
