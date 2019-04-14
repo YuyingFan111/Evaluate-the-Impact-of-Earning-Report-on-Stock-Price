@@ -16,7 +16,7 @@ In order to evaluate the impact of earning report on stock price, I did the foll
 • Use gnuplot to show the CAAR from all 3 groups in one graph.
 
 
-The program have a menu of 5 options:
+The program has a menu of 5 options:
 
 o Retrieve historical price data for all stocks.
 
